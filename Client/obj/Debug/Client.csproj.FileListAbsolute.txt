@@ -1,0 +1,9 @@
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\bin\Debug\Client.exe.config
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\bin\Debug\Client.exe
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\bin\Debug\Client.pdb
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\obj\Debug\Client.Form1.resources
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\obj\Debug\Client.exe
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\obj\Debug\Client.pdb
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\Client\bin\Debug\SimpleTCP.dll

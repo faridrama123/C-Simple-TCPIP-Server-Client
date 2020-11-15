@@ -1,0 +1,9 @@
+c:\users\faridz\documents\visual studio 2012\Projects\tcpip\tcpip\bin\Debug\tcpip.exe.config
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\tcpip\bin\Debug\tcpip.exe
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\tcpip\bin\Debug\tcpip.pdb
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\tcpip\bin\Debug\SimpleTCP.dll
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\tcpip\obj\Debug\tcpip.Form1.resources
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\tcpip\obj\Debug\tcpip.Properties.Resources.resources
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\tcpip\obj\Debug\tcpip.csproj.GenerateResource.Cache
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\tcpip\obj\Debug\tcpip.exe
+C:\Users\Faridz\Documents\Visual Studio 2012\Projects\tcpip\tcpip\obj\Debug\tcpip.pdb
